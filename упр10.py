@@ -1,5 +1,4 @@
 import turtle
-import math
 
 turtle.shape('turtle')
 for i in range (3):
