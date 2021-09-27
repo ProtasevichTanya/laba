@@ -1,5 +1,4 @@
 import turtle as t
-from random import *
 
 t.shape('turtle')
 t.color('blue')
